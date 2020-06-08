@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WorkManagerSample</string>
+
+    <string name="b_input_data">b_input_data</string>
+    <string name="b_error_code">b_error_code</string>
+    <string name="b_error_name">b_error_name</string>
+
+    <string name="b_lat">b_lat</string>
+    <string name="b_lon">b_lon</string>
+</resources>
